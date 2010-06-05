@@ -68,6 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
     <Compile Include="UploadHandlers\FileTools.cs" />
     <Compile Include="UploadHandlers\FileUploadReceiver.ashx.cs">
       <DependentUpon>FileUploadReceiver.ashx</DependentUpon>
@@ -76,7 +81,12 @@
       <DependentUpon>SysInfoReceiver.ashx</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="UploadHandlers\FileUploadReceiver.ashx" />
   </ItemGroup>

@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Web;
+using Silverlight_LOB_Demo_Application.Web.Properties;
 
 namespace Silverlight_LOB_Demo_Application.Web.UploadHandlers
 {
@@ -12,8 +13,8 @@ namespace Silverlight_LOB_Demo_Application.Web.UploadHandlers
     /// </summary>
     public class SysInfoReceiver : IHttpHandler
     {
-        private const string UploadFolder = @"C:\temp\Upload";
-
+        private readonly string _uploadFolder = Settings.Default.FeedBackUploadFolder; 
+        
 
 
         public void ProcessRequest(HttpContext context)
@@ -32,9 +33,9 @@ namespace Silverlight_LOB_Demo_Application.Web.UploadHandlers
 
 
             //TODO: if email valid, send email we received your message
+            //TODO: Add workitem to TFS
 
-            
-            File.WriteAllText(FileTools.GetUniqueFilename(UploadFolder, ".txt"), content);
+            File.WriteAllText(FileTools.GetUniqueFilename(_uploadFolder, ".txt"), content);
         }
 
         public bool IsReusable
