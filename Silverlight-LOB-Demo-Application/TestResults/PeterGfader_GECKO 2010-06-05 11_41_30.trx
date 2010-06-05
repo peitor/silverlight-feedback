@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8766996e-b5b1-4c88-90b6-7562ce7fddd8" name="PeterGfader@GECKO 2010-06-05 11:41:30" runUser="SSW2000\PeterGfader" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e2f71690-26e0-4119-a69e-37d8111239f3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="PeterGfader_GECKO 2010-06-05 11_41_30">
+      <DeploymentItem filename="D:\DataPeterGfader\ProjectsTFS-AtHome\Silverlight-Feedback\Silverlight-LOB-Demo-Application\Silverlight-LOB-Demo-Application\Bin\Debug\Silverlight-LOB-Demo-Application.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-06-05T11:41:30.2366031+10:00" queuing="2010-06-05T11:41:32.4037271+10:00" start="2010-06-05T11:41:32.4907321+10:00" finish="2010-06-05T11:41:33.1767713+10:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod3" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="77b1bbe0-93ee-a9a8-a194-2703370a669b">
+      <Execution id="99c73e4d-a72f-4ed9-a609-0e2646555b04" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod3" />
+    </UnitTest>
+    <UnitTest name="TestMethod5" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="8982e24f-5805-2b5d-c944-b4061c91d459">
+      <Execution id="6aa6d622-1c70-40d4-87f7-c6fc8f2bd3bd" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod5" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="343cca0e-5b76-3735-7331-1de2e080b35e">
+      <Execution id="b4974bc7-1904-4741-a67c-8a5c40412326" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="36736f15-6c94-af81-d39d-75e33fb0c14b">
+      <Execution id="336c9aa1-be36-4f1a-bfa7-67ea28654a8f" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod4" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="490a3ff0-82b9-c934-c61b-43e808120b67">
+      <Execution id="f2ae73bd-2c5b-41a9-addd-9ed1c06adf45" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod4" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="343cca0e-5b76-3735-7331-1de2e080b35e" executionId="b4974bc7-1904-4741-a67c-8a5c40412326" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36736f15-6c94-af81-d39d-75e33fb0c14b" executionId="336c9aa1-be36-4f1a-bfa7-67ea28654a8f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="490a3ff0-82b9-c934-c61b-43e808120b67" executionId="f2ae73bd-2c5b-41a9-addd-9ed1c06adf45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77b1bbe0-93ee-a9a8-a194-2703370a669b" executionId="99c73e4d-a72f-4ed9-a609-0e2646555b04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8982e24f-5805-2b5d-c944-b4061c91d459" executionId="6aa6d622-1c70-40d4-87f7-c6fc8f2bd3bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b4974bc7-1904-4741-a67c-8a5c40412326" testId="343cca0e-5b76-3735-7331-1de2e080b35e" testName="TestMethod1" computerName="GECKO" duration="00:00:00.0162488" startTime="2010-06-05T11:41:32.5367347+10:00" endTime="2010-06-05T11:41:33.0887663+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b4974bc7-1904-4741-a67c-8a5c40412326">
+    </UnitTestResult>
+    <UnitTestResult executionId="336c9aa1-be36-4f1a-bfa7-67ea28654a8f" testId="36736f15-6c94-af81-d39d-75e33fb0c14b" testName="TestMethod2" computerName="GECKO" duration="00:00:00.0007497" startTime="2010-06-05T11:41:33.0957667+10:00" endTime="2010-06-05T11:41:33.1077674+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="336c9aa1-be36-4f1a-bfa7-67ea28654a8f">
+    </UnitTestResult>
+    <UnitTestResult executionId="f2ae73bd-2c5b-41a9-addd-9ed1c06adf45" testId="490a3ff0-82b9-c934-c61b-43e808120b67" testName="TestMethod4" computerName="GECKO" duration="00:00:00.0001630" startTime="2010-06-05T11:41:33.1127676+10:00" endTime="2010-06-05T11:41:33.1197680+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2ae73bd-2c5b-41a9-addd-9ed1c06adf45">
+    </UnitTestResult>
+    <UnitTestResult executionId="99c73e4d-a72f-4ed9-a609-0e2646555b04" testId="77b1bbe0-93ee-a9a8-a194-2703370a669b" testName="TestMethod3" computerName="GECKO" duration="00:00:00.0001543" startTime="2010-06-05T11:41:33.1247683+10:00" endTime="2010-06-05T11:41:33.1357690+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="99c73e4d-a72f-4ed9-a609-0e2646555b04">
+    </UnitTestResult>
+    <UnitTestResult executionId="6aa6d622-1c70-40d4-87f7-c6fc8f2bd3bd" testId="8982e24f-5805-2b5d-c944-b4061c91d459" testName="TestMethod5" computerName="GECKO" duration="00:00:00.0001580" startTime="2010-06-05T11:41:33.1407692+10:00" endTime="2010-06-05T11:41:33.1487697+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6aa6d622-1c70-40d4-87f7-c6fc8f2bd3bd">
+    </UnitTestResult>
+  </Results>
+</TestRun>

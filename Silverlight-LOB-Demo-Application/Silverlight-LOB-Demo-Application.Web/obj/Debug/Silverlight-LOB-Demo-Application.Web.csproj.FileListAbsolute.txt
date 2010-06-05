@@ -1,0 +1,5 @@
+D:\DataPeterGfader\ProjectsTFS-AtHome\Silverlight-Feedback\Silverlight-LOB-Demo-Application\Silverlight-LOB-Demo-Application.Web\bin\Silverlight-LOB-Demo-Application.Web.dll
+D:\DataPeterGfader\ProjectsTFS-AtHome\Silverlight-Feedback\Silverlight-LOB-Demo-Application\Silverlight-LOB-Demo-Application.Web\bin\Silverlight-LOB-Demo-Application.Web.pdb
+D:\DataPeterGfader\ProjectsTFS-AtHome\Silverlight-Feedback\Silverlight-LOB-Demo-Application\Silverlight-LOB-Demo-Application.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\DataPeterGfader\ProjectsTFS-AtHome\Silverlight-Feedback\Silverlight-LOB-Demo-Application\Silverlight-LOB-Demo-Application.Web\obj\Debug\Silverlight-LOB-Demo-Application.Web.dll
+D:\DataPeterGfader\ProjectsTFS-AtHome\Silverlight-Feedback\Silverlight-LOB-Demo-Application\Silverlight-LOB-Demo-Application.Web\obj\Debug\Silverlight-LOB-Demo-Application.Web.pdb

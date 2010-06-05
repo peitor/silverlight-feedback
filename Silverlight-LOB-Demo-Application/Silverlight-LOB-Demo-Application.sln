@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight-LOB-Demo-Application", "Silverlight-LOB-Demo-Application\Silverlight-LOB-Demo-Application.csproj", "{A727EF9A-C2F9-4526-AA1A-116988BBF174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight-LOB-Demo-Application.Web", "Silverlight-LOB-Demo-Application.Web\Silverlight-LOB-Demo-Application.Web.csproj", "{0FC03DBF-5831-4340-877D-16CC3DB802F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{750C4D31-A4CD-4D09-B3AA-2E53FFDF97C1}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Silverlight-LOB-Demo-Application.vsmdi = Silverlight-LOB-Demo-Application.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{043AF992-3B4B-413F-910A-3DE5D41F890D}"
+	ProjectSection(SolutionItems) = preProject
+		References\ICSharpCode.SharpZipLib.Silverlight.dll = References\ICSharpCode.SharpZipLib.Silverlight.dll
+		References\ImageTools.Controls.dll = References\ImageTools.Controls.dll
+		References\ImageTools.Controls.pdb = References\ImageTools.Controls.pdb
+		References\ImageTools.Controls.XML = References\ImageTools.Controls.XML
+		References\ImageTools.dll = References\ImageTools.dll
+		References\ImageTools.Filtering.dll = References\ImageTools.Filtering.dll
+		References\ImageTools.Filtering.pdb = References\ImageTools.Filtering.pdb
+		References\ImageTools.Filtering.XML = References\ImageTools.Filtering.XML
+		References\ImageTools.IO.Bmp.dll = References\ImageTools.IO.Bmp.dll
+		References\ImageTools.IO.Bmp.pdb = References\ImageTools.IO.Bmp.pdb
+		References\ImageTools.IO.Bmp.XML = References\ImageTools.IO.Bmp.XML
+		References\ImageTools.IO.Gif.dll = References\ImageTools.IO.Gif.dll
+		References\ImageTools.IO.Gif.pdb = References\ImageTools.IO.Gif.pdb
+		References\ImageTools.IO.Gif.XML = References\ImageTools.IO.Gif.XML
+		References\ImageTools.IO.Jpeg.dll = References\ImageTools.IO.Jpeg.dll
+		References\ImageTools.IO.Jpeg.pdb = References\ImageTools.IO.Jpeg.pdb
+		References\ImageTools.IO.Jpeg.XML = References\ImageTools.IO.Jpeg.XML
+		References\ImageTools.IO.Png.dll = References\ImageTools.IO.Png.dll
+		References\ImageTools.IO.Png.pdb = References\ImageTools.IO.Png.pdb
+		References\ImageTools.IO.Png.XML = References\ImageTools.IO.Png.XML
+		References\ImageTools.pdb = References\ImageTools.pdb
+		References\ImageTools.Utils.dll = References\ImageTools.Utils.dll
+		References\ImageTools.Utils.pdb = References\ImageTools.Utils.pdb
+		References\ImageTools.XML = References\ImageTools.XML
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Unit.Silverlight", "Tests.Unit.Silverlight\Tests.Unit.Silverlight.csproj", "{CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://gecko:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Silverlight-LOB-Demo-Application.Web\\Silverlight-LOB-Demo-Application.Web.csproj
+		SccProjectName1 = Silverlight-LOB-Demo-Application.Web
+		SccLocalPath1 = Silverlight-LOB-Demo-Application.Web
+		SccProjectUniqueName2 = Silverlight-LOB-Demo-Application\\Silverlight-LOB-Demo-Application.csproj
+		SccProjectName2 = Silverlight-LOB-Demo-Application
+		SccLocalPath2 = Silverlight-LOB-Demo-Application
+		SccProjectUniqueName3 = Tests.Unit.Silverlight\\Tests.Unit.Silverlight.csproj
+		SccProjectName3 = Tests.Unit.Silverlight
+		SccLocalPath3 = Tests.Unit.Silverlight
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Silverlight-LOB-Demo-Application.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A727EF9A-C2F9-4526-AA1A-116988BBF174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A727EF9A-C2F9-4526-AA1A-116988BBF174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A727EF9A-C2F9-4526-AA1A-116988BBF174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A727EF9A-C2F9-4526-AA1A-116988BBF174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC03DBF-5831-4340-877D-16CC3DB802F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC03DBF-5831-4340-877D-16CC3DB802F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC03DBF-5831-4340-877D-16CC3DB802F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC03DBF-5831-4340-877D-16CC3DB802F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{043AF992-3B4B-413F-910A-3DE5D41F890D} = {750C4D31-A4CD-4D09-B3AA-2E53FFDF97C1}
+	EndGlobalSection
+EndGlobal

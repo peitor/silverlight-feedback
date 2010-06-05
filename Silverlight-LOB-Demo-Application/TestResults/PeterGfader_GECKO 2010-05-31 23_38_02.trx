@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="19475bd5-e5fe-4bfb-8069-a9ac191ec68f" name="PeterGfader@GECKO 2010-05-31 23:38:02" runUser="SSW2000\PeterGfader" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e2f71690-26e0-4119-a69e-37d8111239f3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="PeterGfader_GECKO 2010-05-31 23_38_02" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-05-31T23:38:02.8138210+10:00" queuing="2010-05-31T23:38:02.8288218+10:00" start="2010-05-31T23:38:02.8508231+10:00" finish="2010-05-31T23:38:03.2688470+10:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" passed="3" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod3" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="77b1bbe0-93ee-a9a8-a194-2703370a669b">
+      <Execution id="73ed18da-f182-4c60-a2ef-ad8d97019a86" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod3" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="343cca0e-5b76-3735-7331-1de2e080b35e">
+      <Execution id="73dd7b96-52ab-433f-8432-3be995660726" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="36736f15-6c94-af81-d39d-75e33fb0c14b">
+      <Execution id="c4d61dc0-89e7-4d70-b6ac-4915ef9427ea" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod4" storage="d:\datapetergfader\projectstfs-athome\silverlight-feedback\silverlight-lob-demo-application\tests.unit.silverlight\bin\debug\tests.unit.silverlight.dll" id="490a3ff0-82b9-c934-c61b-43e808120b67">
+      <Execution id="3d514349-b2ac-4960-964a-8827fe14bea7" />
+      <TestMethod codeBase="D:/DataPeterGfader/ProjectsTFS-AtHome/Silverlight-Feedback/Silverlight-LOB-Demo-Application/Tests.Unit.Silverlight/bin/Debug/Tests.Unit.Silverlight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Unit.Silverlight.UnitTest1, Tests.Unit.Silverlight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod4" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="343cca0e-5b76-3735-7331-1de2e080b35e" executionId="73dd7b96-52ab-433f-8432-3be995660726" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36736f15-6c94-af81-d39d-75e33fb0c14b" executionId="c4d61dc0-89e7-4d70-b6ac-4915ef9427ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="490a3ff0-82b9-c934-c61b-43e808120b67" executionId="3d514349-b2ac-4960-964a-8827fe14bea7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77b1bbe0-93ee-a9a8-a194-2703370a669b" executionId="73ed18da-f182-4c60-a2ef-ad8d97019a86" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="73dd7b96-52ab-433f-8432-3be995660726" testId="343cca0e-5b76-3735-7331-1de2e080b35e" testName="TestMethod1" computerName="GECKO" duration="00:00:00.0155445" startTime="2010-05-31T23:38:02.8738244+10:00" endTime="2010-05-31T23:38:03.1578406+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="73dd7b96-52ab-433f-8432-3be995660726">
+    </UnitTestResult>
+    <UnitTestResult executionId="c4d61dc0-89e7-4d70-b6ac-4915ef9427ea" testId="36736f15-6c94-af81-d39d-75e33fb0c14b" testName="TestMethod2" computerName="GECKO" duration="00:00:00.0040576" startTime="2010-05-31T23:38:03.1608408+10:00" endTime="2010-05-31T23:38:03.1788418+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4d61dc0-89e7-4d70-b6ac-4915ef9427ea">
+    </UnitTestResult>
+    <UnitTestResult executionId="3d514349-b2ac-4960-964a-8827fe14bea7" testId="490a3ff0-82b9-c934-c61b-43e808120b67" testName="TestMethod4" computerName="GECKO" duration="00:00:00.0169074" startTime="2010-05-31T23:38:03.1808419+10:00" endTime="2010-05-31T23:38:03.2148439+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d514349-b2ac-4960-964a-8827fe14bea7">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1 hour 1 min. 40 sec.&gt;. Actual:&lt;1 h. 1 min. 40 sec.&gt;. </Message>
+          <StackTrace>   at Tests.Unit.Silverlight.UnitTest1.ConvertAndAssert(String convertToNiceTime, String expected) in D:\DataPeterGfader\ProjectsTFS-AtHome\Silverlight-Feedback\Silverlight-LOB-Demo-Application\Tests.Unit.Silverlight\UnitTest1.cs:line 86
+   at Tests.Unit.Silverlight.UnitTest1.TestMethod4() in D:\DataPeterGfader\ProjectsTFS-AtHome\Silverlight-Feedback\Silverlight-LOB-Demo-Application\Tests.Unit.Silverlight\UnitTest1.cs:line 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="73ed18da-f182-4c60-a2ef-ad8d97019a86" testId="77b1bbe0-93ee-a9a8-a194-2703370a669b" testName="TestMethod3" computerName="GECKO" duration="00:00:00.0010023" startTime="2010-05-31T23:38:03.2268446+10:00" endTime="2010-05-31T23:38:03.2438456+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="73ed18da-f182-4c60-a2ef-ad8d97019a86">
+    </UnitTestResult>
+  </Results>
+</TestRun>

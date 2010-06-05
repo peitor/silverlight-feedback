@@ -1,0 +1,109 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml" caret="378" fromTop="3" />
+      <File id="043AF992-3B4B-413F-910A-3DE5D41F890D/f:ImageTools.IO.Png.XML/l:D!?DataPeterGfader?ProjectsTFS-AtHome?Silverlight-Feedback?Silverlight-LOB-Demo-Application?References?ImageTools.IO.Png.XML" caret="0" fromTop="0" />
+      <File id="0FC03DBF-5831-4340-877D-16CC3DB802F4/f:index.html" caret="0" fromTop="0" />
+      <File id="0FC03DBF-5831-4340-877D-16CC3DB802F4/d:UploadHandlers/f:FileTools.cs" caret="469" fromTop="14" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/f:App.xaml.cs" caret="13" fromTop="0" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:LOB-Demo/f:MainPage.xaml" caret="412" fromTop="5" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:LOB-Demo/f:MainPage.xaml.cs" caret="348" fromTop="12" />
+      <File id="0FC03DBF-5831-4340-877D-16CC3DB802F4/d:UploadHandlers/f:FileUploadReceiver.ashx.cs" caret="460" fromTop="16" />
+      <File id="0FC03DBF-5831-4340-877D-16CC3DB802F4/d:UploadHandlers/f:SysInfoReceiver.ashx.cs" caret="164" fromTop="6" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="281" fromTop="10" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:TimeConversion.xaml.cs" caret="772" fromTop="24" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="2389" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/f:App.xaml.cs" caret="583" fromTop="18" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/f:App.xaml.cs" caret="13" fromTop="0" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="4133" fromTop="25" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="4133" fromTop="34" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="4133" fromTop="44" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="4133" fromTop="25" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="4133" fromTop="17" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="4133" fromTop="13" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="4133" fromTop="14" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="3088" fromTop="17" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="281" fromTop="13" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="281" fromTop="18" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="281" fromTop="26" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="1396" fromTop="15" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="375" fromTop="11" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:FeedbackWindow.xaml.cs" caret="281" fromTop="10" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="0" fromTop="0" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="281" fromTop="8" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="2547" fromTop="19" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:TimeConversion.xaml.cs" caret="408" fromTop="14" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:TimeConversion.xaml.cs" caret="1008" fromTop="23" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="2547" fromTop="31" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="2547" fromTop="33" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="2547" fromTop="26" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="1825" fromTop="19" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="2436" fromTop="19" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="2436" fromTop="18" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:TimeConversion.xaml.cs" caret="851" fromTop="28" />
+      <File id="A727EF9A-C2F9-4526-AA1A-116988BBF174/d:FeedbackControl/f:TimeConversion.xaml.cs" caret="772" fromTop="24" />
+      <File id="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5/f:UnitTest1.cs" caret="2402" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ImageTools" priority="0" />
+      <Item value="Image`0" priority="0" />
+      <Item value="message.png" priority="0" />
+      <Item value="FeedbackWindow`0" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="if" priority="2" />
+      <Item value="timeInMilliSeconds" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="seconds" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="minutes" priority="1" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="expected" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="hours" priority="1" />
+      <Item value="days" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Browser.BrowserInformation">
+      <Item value="BrowserVersion" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Platform" priority="0" />
+      <Item value="ProductName" priority="0" />
+      <Item value="ProductVersion" priority="0" />
+      <Item value="UserAgent" priority="0" />
+      <Item value="CookiesEnabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ConvertToNiceTime`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Silverlight_LOB_Demo_Application.FeedbackControl.TimeConversion">
+      <Item value="ConvertToNiceTime`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

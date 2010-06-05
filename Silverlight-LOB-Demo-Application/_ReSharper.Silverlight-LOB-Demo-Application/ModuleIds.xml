@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="A727EF9A-C2F9-4526-AA1A-116988BBF174" ModuleId="Silverlight-LOB-Demo-Application" />
+  <Module PersistentId="0FC03DBF-5831-4340-877D-16CC3DB802F4" ModuleId="Silverlight-LOB-Demo-Application.Web" />
+  <Module PersistentId="CF1BC857-BD0E-4FA4-85BA-9A661BF6F3E5" ModuleId="Tests.Unit.Silverlight" />
+</Modules>
